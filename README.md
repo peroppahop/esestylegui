@@ -1,0 +1,2 @@
+# esestylegui
+pipでインストールできるeseスタイルを自由に使うためのpythonライブラリ
